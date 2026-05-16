@@ -1,6 +1,8 @@
 # Codex Pets
 
-My custom Codex pets.
+Codex pets 是 Codex 桌面应用里的小型动画伙伴。每个 pet 由一个元数据文件和一张精灵图集组成，Codex 可以将它加载为应用中的自定义角色。
+
+这个仓库收集了我的自定义 Codex pets。使用 `Add` 列中的命令即可在本地安装对应的 pet。
 
 ## Pets
 
